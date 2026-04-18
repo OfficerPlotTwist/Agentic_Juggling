@@ -1,0 +1,8 @@
+{
+  "node_id": "node-1",
+  "token": "changeme",
+  "server_host": "127.0.0.1",
+  "server_port": 5555,
+  "metrics_interval": 5.0,
+  "agent": "claude"
+}
